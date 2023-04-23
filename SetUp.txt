@@ -1,0 +1,37 @@
+How to Create Full-Stack Project Foundation
+
+BackEnd:
+
+Step 1: mkdir <project-name>
+
+Step 2: cd into <project-name>
+
+Step 3: touch ReadMe.md 
+
+Step 4: run code . 
+
+Step 5: mkdir server
+
+Step 6: cd into server
+
+Step 7: touch models.py
+        touch config.py
+        touch app.py
+        touch seed.py
+ 
+Step 8: run pipenv install
+
+Step 9: git init
+        git add . 
+        git commit -m 'backend basics'
+
+Step 10: setup config.py 
+
+Step
+Step
+Step
+Step
+Step
+Step
+Step
+Step
